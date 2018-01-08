@@ -1,0 +1,3 @@
+#10to0
+for a in range (10, -1, -1):
+    print (a)
